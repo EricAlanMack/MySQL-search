@@ -1,4 +1,4 @@
 MySQL-search
 ============
 
-Both of these are command line search utilities for a MySQL database. 
+Both of these are command line search utilities for MySQL databases. 
